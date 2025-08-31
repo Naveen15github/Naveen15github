@@ -21,16 +21,6 @@ Hey there! I'm Naveen, passionate about building, automating, and scaling cloud-
 
 ---
 
-## 🌟 Projects & Highlights
-
-- **Static Website on AWS S3**  
-  _Deployed and managed a personal website using S3 & Route 53 (with HTTPS)_
-
-- **Learning CI/CD Pipelines**  
-  _Currently experimenting with GitHub Actions & automating deployments_
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

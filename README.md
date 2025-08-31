@@ -16,7 +16,7 @@ Hey there! I'm Naveen, passionate about building, automating, and scaling cloud-
 ## 🛠️ Skills & Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,git,devops,docker,kubernetes,jenkins" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,python,linux,git,docker,kubernetes,jenkins" height="40"/>
 </p>
 
 ---

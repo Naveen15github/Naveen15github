@@ -2,7 +2,7 @@
 <p align="center">
   <b>Aspiring Cloud & DevOps Engineer</b> <br/>
   Electrical Engineering student @ NGPI Tech, Coimbatore <br/>
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,git,devopsdocker,kubernetes,jenkins" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,python,linux,git,docker,kubernetes,jenkins" height="40"/>
 </p>
 
 ---

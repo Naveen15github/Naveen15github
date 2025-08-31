@@ -34,7 +34,8 @@ Hey there! I'm Naveen, passionate about building, automating, and scaling cloud-
 
 ## ⚡ Fun Fact / Personal Touch
 
-> "Obsessed with automation, powered by ☕ and curiosity.  
+> "Obsessed with automation, powered by ☕ and curiosity.
+> Always learning, sometimes breaking things, always building solutions.  
 > Let's build the future — one script at a time!"
 
 ---

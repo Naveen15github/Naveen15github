@@ -43,7 +43,7 @@ Hey there! I'm Naveen, passionate about building, automating, and scaling cloud-
   <a href="https://www.linkedin.com/in/naveen15github/](https://www.linkedin.com/in/naveen-g-41a041253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmzhPKgJFRMGbFlY3caUvYQ%3D%3D">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:naveen15github@gmail.com">
+  <a href="mailto:naveen6662005@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
 </p>

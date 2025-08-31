@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm Naveen, passionate about building, automating, and scaling cloud-native solutions. As an Electrical Engineering student, I blend technical curiosity with a drive for continuous learning — always up for solving problems and exploring new tech!
+Hey there! I'm Naveen, passionate about building, automating, and scaling cloud-native solutions. As an Electrical Engineering student, I blend technical curiosity with a drive for continuous learning always up for solving problems and exploring new tech!
 
 ---
 

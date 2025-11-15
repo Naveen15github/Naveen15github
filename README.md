@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Naveen G 👋</h1>
+<h1 align="left">Hi, I'm Naveen G 👋</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
@@ -82,4 +82,3 @@
 </div>
 
 ###
-

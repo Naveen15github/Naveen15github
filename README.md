@@ -1,54 +1,88 @@
 <h1 align="center">Hi, I'm Naveen G 👋</h1>
-<p align="center">
-  <b>Aspiring Cloud & DevOps Engineer</b> <br/>
-  Electronics and Communication student @ NGP ITech, Coimbatore <br/>
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,git,docker,kubernetes,jenkins" height="40"/>
-</p>
 
----
+###
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+</div>
 
-Hey there! I'm Naveen, passionate about building, automating, and scaling cloud-native solutions. As an Electronics and communication Engineering student, I blend technical curiosity with a drive for continuous learning always up for solving problems and exploring new tech!
+###
 
----
+<h2 align="left">About Me</h2>
 
-## 🛠️ Skills & Tech Stack
+###
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,git,docker,kubernetes,jenkins" height="40"/>
-</p>
+<h5 align="left">I’m Naveen, a passionate Cloud & DevOps Engineer in progress with hands-on experience across leading cloud platforms - AWS, Azure, and GCP.<br>I work with modern DevOps and automation tools like Linux, Git, Jenkins, Docker, Kubernetes, and Terraform to build reliable, scalable, and automated cloud environments.<br><br>I’m driven by learning, improving, and creating practical projects that strengthen my skills and deliver real value.<br><br>🚀 Focused on growing into a strong Cloud/DevOps Engineer through continuous learning and real-world implementations.</h5>
 
----
+###
 
-## 📊 GitHub Stats
+<h2 align="left">Social Media</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen15github&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen15github&theme=tokyonight" alt="GitHub Streak" height="140"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveen15github&theme=tokyonight"/>
-</p>
+###
 
----
-
-## ⚡ Fun Fact 
-
-> "Obsessed with automation, powered by ☕ and curiosity.
-> Always learning, sometimes breaking things, always building solutions.  
-> Let's build the future "
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveen15github/](https://www.linkedin.com/in/naveen-g-41a041253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmzhPKgJFRMGbFlY3caUvYQ%3D%3D">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+<div align="left">
+  <a href="www.linkedin.com/in/naveen-g-41a041253" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:naveen6662005@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge">
+  <a href="naveen6662005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</p>
+</div>
 
-<!--
-Minimal, clean, and professional — say hi if you share the same curiosity!
--->
+###
+
+<h2 align="left">Skills & Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+</div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen15github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveen15github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Naveen15github&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Naveen15github&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen15github&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Naveen15github/Naveen15github/output/snake.svg" alt="Snake animation" />
+
+###

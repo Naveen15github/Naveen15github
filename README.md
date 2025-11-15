@@ -83,6 +83,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Naveen15github/Naveen15github/output/snake.svg" alt="Snake animation" />
-
-###

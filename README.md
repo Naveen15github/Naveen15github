@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">Skills & Tech Stack</h2>
+<h2 align="left">🚀 Skills & Tech Stack</h2>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">📈 GitHub Stats</h2>
 
 ###
 

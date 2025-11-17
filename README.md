@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="centre">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />

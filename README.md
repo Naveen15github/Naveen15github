@@ -40,7 +40,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/naveen-g-41a041253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJZ%2BSjIVfSzS9IyqGwgWlNg%3D%3D" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.sv" width="52" height="40" alt="linkedin logo"  />
+</div>
   <a href="mailto:naveen6662005@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
        width="52" height="40" alt="gmail logo" />

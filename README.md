@@ -53,12 +53,12 @@
 <div align="left">
    <a href="https://www.linkedin.com/in/naveen-g-41a041253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxpZxBAIJSVCPf%2FWXfnGRVw%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-<a href="https://medium.com/https://medium.com/@naveen_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@naveen_15" height="30" width="40" /></a>
 </a>
   <a href="mailto:naveen6662005@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
        width="52" height="40" alt="gmail logo" />
+</a>
+   <a href="https://medium.com/https://medium.com/@naveen_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@naveen_15" height="30" width="40" /></a>
 </a>
 </div>
 

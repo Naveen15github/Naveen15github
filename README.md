@@ -43,10 +43,10 @@
 ###
 
 <h5 align="left">
-  I'm Naveen, an AWS Certified Cloud Practitioner passionate about Cloud, DevOps, and Generative AI.<br>
+  I'm Naveen, an AWS Certified Cloud Practitioner passionate about Cloud, DevOps and Generative AI.<br>
   I work with AWS, Azure, Python, and Linux to build, automate, and solve problems that actually matter.<br><br>
-  Gen AI is where I'm doubling down right now — exploring how large language models and cloud-native architectures come together to build the next generation of intelligent systems.<br><br>
-  I'm not just learning the tools. I'm learning how to think like an engineer — curious, hands-on, and always pushing forward.<br><br>
+  Gen AI is where I'm doubling down right now - exploring how large language models and cloud-native architectures come together to build the next generation of intelligent systems.<br><br>
+  I'm not just learning the tools. I'm learning how to think like an engineer - curious, hands-on, and always pushing forward.<br><br>
   🚀 Open to opportunities, collaborations & conversations.
 </h5>
 

@@ -1,4 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cloud%20%E2%98%81%EF%B8%8F%20%2B%20AI%20%F0%9F%A4%96&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+
 <h1 align="left">Hi, I'm Naveen G 👋</h1>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=false&vCenter=true&width=600&lines=Building+on+AWS+%2B+Azure+%2B+GCP+%E2%98%81%EF%B8%8F;Automating+Infra+with+Terraform+%26+Ansible+%E2%9A%99%EF%B8%8F;Exploring+LLMs+%2B+RAG+Pipelines+%F0%9F%A4%96;Cloud-Native+%2B+AI-Native+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -118,5 +124,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Naveen15github/Naveen15github/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer banner" />
 
 ###

@@ -3,33 +3,33 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="32" alt="github actions" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="github actions" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" alt="prometheus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="45" alt="argocd logo"  />
   <img width="12" />
 </div>
 
@@ -71,37 +71,37 @@
 <table>
   <tr>
     <td><b>☁️ Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws" height="32" alt="aws" />
-      <img src="https://skillicons.dev/icons?i=azure" height="32" alt="azure" />
-      <img src="https://skillicons.dev/icons?i=gcp" height="32" alt="gcp" />
+    <td style="white-space:nowrap;">
+      <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws" />
+      <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure" />
+      <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="gcp" />
     </td>
   </tr>
   <tr>
     <td><b>📦 IaC & Containers</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" alt="terraform" />
-      <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker" />
-      <img src="https://skillicons.dev/icons?i=kubernetes" height="32" alt="kubernetes" />
+    <td style="white-space:nowrap;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="terraform" />
+      <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes" />
     </td>
   </tr>
   <tr>
     <td><b>🔄 CI/CD & Monitoring</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=jenkins" height="32" alt="jenkins" />
-      <img src="https://skillicons.dev/icons?i=githubactions" height="32" alt="github actions" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32" alt="grafana" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="32" alt="prometheus" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="32" alt="argocd" />
+    <td style="white-space:nowrap;">
+      <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="jenkins" />
+      <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="github actions" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="grafana" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" alt="prometheus" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="45" alt="argocd" />
     </td>
   </tr>
   <tr>
     <td><b>🧑‍💻 Languages & Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py" height="32" alt="python" />
-      <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux" />
-      <img src="https://skillicons.dev/icons?i=git" height="32" alt="git" />
-      <img src="https://skillicons.dev/icons?i=github" height="32" alt="github" />
+    <td style="white-space:nowrap;">
+      <img src="https://skillicons.dev/icons?i=py" height="45" alt="python" />
+      <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux" />
+      <img src="https://skillicons.dev/icons?i=git" height="45" alt="git" />
+      <img src="https://skillicons.dev/icons?i=github" height="45" alt="github" />
     </td>
   </tr>
 </table>

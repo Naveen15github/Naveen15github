@@ -101,7 +101,7 @@
 
 ###
 
-<h2 align="left">💻 What I'm Running</h2>
+<h2 align="left">💻 What's Running</h2>
 
 ###
 

@@ -1,10 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cloud%20%E2%98%81%EF%B8%8F%20%2B%20AI%20%F0%9F%A4%96&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="header banner" />
-
 <h1 align="left">Hi, I'm Naveen G 👋</h1>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=false&vCenter=true&width=600&lines=Building+on+AWS+%2B+Azure+%2B+GCP+%E2%98%81%EF%B8%8F;Automating+Infra+with+Terraform+%26+Ansible+%E2%9A%99%EF%B8%8F;Exploring+LLMs+%2B+RAG+Pipelines+%F0%9F%A4%96;Cloud-Native+%2B+AI-Native+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 ###
 
@@ -113,18 +107,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveen15github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveen15github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Naveen15github&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Naveen15github&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen15github&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Naveen15github&theme=dracula&hide_border=false&layout=compact&langs_count=5&order=6" height="150" alt="wakatime graph" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Naveen15github&limit=5&theme=dracula&combine_all_yearly_contributions=true&order=7" height="150" alt="contribution stats graph" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Naveen15github/Naveen15github/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer banner" />
 
 ###

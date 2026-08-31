@@ -111,6 +111,12 @@
   <img src="https://streak-stats.demolab.com?user=Naveen15github&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Naveen15github&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen15github&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Naveen15github&theme=dracula&hide_border=false&layout=compact&langs_count=5&order=6" height="150" alt="wakatime graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Naveen15github&limit=5&theme=dracula&combine_all_yearly_contributions=true&order=7" height="150" alt="contribution stats graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Naveen15github/Naveen15github/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
 
 ###

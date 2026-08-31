@@ -72,7 +72,6 @@
     <td style="white-space:nowrap;">
       <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws" />
       <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure" />
-      <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="gcp" />
     </td>
   </tr>
   <tr>

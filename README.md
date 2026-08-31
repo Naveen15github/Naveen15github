@@ -106,7 +106,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Naveen15github/Naveen15github/main/assets/terminal-multiline-typing.svg" alt="terminal typing animation" />
+  <img src="https://raw.githubusercontent.com/Naveen15github/Naveen15github/main/terminal-multiline-typing.svg" alt="terminal typing animation" />
 </div>
 
 ###

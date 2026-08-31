@@ -11,6 +11,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="terraform logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="github actions" />
@@ -20,10 +24,6 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="grafana logo"  />
   <img width="12" />

@@ -92,7 +92,6 @@
       <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="github actions" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="grafana" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" alt="prometheus" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="45" alt="argocd" />
     </td>
   </tr>
   <tr>

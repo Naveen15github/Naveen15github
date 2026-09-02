@@ -5,7 +5,7 @@
   <circle cx="20" cy="15" r="6" fill="#ff5f56"/>
   <circle cx="40" cy="15" r="6" fill="#ffbd2e"/>
   <circle cx="60" cy="15" r="6" fill="#27c93f"/>
-  <text x="300" y="19" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">naveen@cloud:~</text>
+  <text x="300" y="19" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">Naveen15github:~</text>
 
   <clipPath id="clip1">
     <rect x="0" y="52" width="0" height="20">
